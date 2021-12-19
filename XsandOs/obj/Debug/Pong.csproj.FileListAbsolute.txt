@@ -1,0 +1,7 @@
+C:\Users\redwo\source\repos\XsandOs\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\redwo\source\repos\XsandOs\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\redwo\source\repos\XsandOs\obj\Debug\XsandOs.exe
+C:\Users\redwo\source\repos\XsandOs\obj\Debug\XsandOs.pdb
+C:\Users\redwo\source\repos\XsandOs\bin\Debug\XsandOs.exe.config
+C:\Users\redwo\source\repos\XsandOs\bin\Debug\XsandOs.exe
+C:\Users\redwo\source\repos\XsandOs\bin\Debug\XsandOs.pdb
